@@ -6,7 +6,9 @@
 https://www.autoahk.com/archives/34648
 
 这里改颜色
-https://cdn.autoahk.com/wp-content/uploads/2022/05/202205220219574.png?x-oss-process=image%2Fformat,webp
+
+![202205220219574](https://user-images.githubusercontent.com/56662006/183868365-0ce9f42a-beec-4db6-8f5d-f3d0f58c82fe.png)
+
 
 透明度具体对应百分比：
 100% — FF  
@@ -27,4 +29,5 @@ https://cdn.autoahk.com/wp-content/uploads/2022/05/202205220219574.png?x-oss-pro
 
 这里改大小
 
-https://cdn.autoahk.com/wp-content/uploads/2022/05/2022052202174070.png?x-oss-process=image%2Fformat,webp
+![2022052202174070](https://user-images.githubusercontent.com/56662006/183868465-88eb0a63-f99e-4a1d-aea3-fa7534f06187.png)
+
